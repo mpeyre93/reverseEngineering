@@ -30,6 +30,5 @@ THEN I understand the codebase
 
 ## Link to tutorial below:
 
-* A link to a Google Doc explaining the applications files and code: 
-<br>
- <a target="_blank" href="https://docs.google.com/document/d/1r9eLhe_OpAzJTxbxLinWOBzfaCux87TCqdGOcYEPWxo/edit?usp=sharing">Tutorial</a>
+* link to a Google Doc explaining the applications files and code: 
+ <a target="_blank" href="https://docs.google.com/document/d/1r9eLhe_OpAzJTxbxLinWOBzfaCux87TCqdGOcYEPWxo/edit?usp=sharing"> Tutorial </a>
