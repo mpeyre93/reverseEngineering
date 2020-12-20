@@ -30,4 +30,4 @@ THEN I understand the codebase
 
 ## Link to tutorial below:
 
-* A link to a Google Doc or video explaining the application in `Develop/`. 
+* A link to a Google Doc or video explaining the applications files and code: 
