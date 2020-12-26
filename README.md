@@ -1,7 +1,7 @@
 # reverseEngineering
 # Sequelize 
 
-This repo was created as a tutorial to reverse engineer a codebase. We will walk-through and inspect each file's purpose to better understand the code's responsibilities. This is a Node.js application using Sequelize and Passport for authentication. This application will support a basic user login and sign up platform.
+This repo was created as a tutorial to reverse engineer a codebase. We will walk-through and inspect each file's purpose to better understand the code's responsibilities. This is a Node.js application using Sequelize and Passport for authentication. This application will support a basic user login and sign up platform featuring a members welcome page.
 
 We will also cover instructions for how you could add changes to this project.
 
