@@ -5,7 +5,6 @@ This repo was created as a tutorial to reverse engineer a codebase. We will walk
 
 We will also cover instructions for how you could add changes to this project.
 
- 
  ## User story:
 ```
 AS A developer
@@ -14,6 +13,14 @@ I WANT a walk-through of the codebase
 
 SO THAT I can use it as a starting point for a new project
 ```
+## Application Technologies
+    * bcryptsjs
+    * express
+    * express-session
+    * mysql2
+    * passport
+    * passport-local
+    * sequelize
 
 ## Business Context
 
